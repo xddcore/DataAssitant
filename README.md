@@ -38,7 +38,7 @@ pyinstaller -F -w -i sipeed.ico DataAssistant.py
 ---
 ## Bug汇总：
 - [x] 处理中程序出现未响应.(解决方案:新进程解决)
-- [ ]仅支持在Windows10以下运行(实测windows7无法运行)
+- [ ] 仅支持在Windows10以下运行(实测windows7无法运行)
 ---
 ## 打包好的zip下载:
 本项目 Release页面

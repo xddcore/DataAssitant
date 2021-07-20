@@ -1,0 +1,2 @@
+wxPython==4.0.7.post2
+Pillow==7.1.2

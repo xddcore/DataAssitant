@@ -43,6 +43,12 @@ pyinstaller -F -w -i sipeed.ico DataAssistant.py
 ## 打包好的zip下载:
 本项目 Release页面
 
+## K210数据集自动收集脚本
+> 1.Data_Collection_Assitant(Classification).py 目标分类数据集自动收集
+> 2.Data_Collection_Assitant(ObjectDection).py 目标检测数据集自动收集
+
+
+
 
 
 

@@ -1,6 +1,17 @@
+<!--
+ * @Author: Chengsen Dong 1034029664@qq.com
+ * @Date: 2022-07-16 14:42:46
+ * @LastEditors: Chengsen Dong 1034029664@qq.com
+ * @LastEditTime: 2022-07-16 14:44:49
+ * @FilePath: /DataAssitant/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # `DataAssitant`项目说明
 ## 项目背景
 大一在sipeed实习(2020.3-2020.7月)时所编著，因为Maxihub后端自动训练脚本也是我在开发，所以编写一个能够规范产出数据集的预处理软件非常重要。大大提高用户使用Maixhub时的使用体验。
+## Note：
+由于本数据集预处理软件已于2020年停止维护，Maxihub将不在支持它所处理的数据格式。请大家直接使用Maxihub提供的在线数据集预处理。
+
 ## 开发环境建立
 ```bash
 conda create -n dataassitant python=3.7.4
